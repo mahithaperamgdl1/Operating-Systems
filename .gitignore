@@ -2,3 +2,8 @@ a.out
 a.exe
 *.o
 *.ppm
+
+# compiled binaries
+*.out
+# corrupted/oversized generated experiment output (regenerate with src/run_experiments.sh)
+Lab 3/cs24bt007_cs24bt054_lab3/src/results.csv
